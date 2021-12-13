@@ -7,7 +7,7 @@ authors = ["Jasper Bryant-Greene <jbg@rf.net.nz>"]
 package_name = "com.github.jbg.conrod-android-skeleton"
 label = "Conrod Android Skeleton"
 android_version = 18
-build_targets = ["arm-linux-androideabi"]
+build_targets = ["armv7-linux-androideabi"]
 assets = "assets"
 
 [[bin]]
@@ -17,10 +17,10 @@ path = "src/main.rs"
 [dependencies]
 android_glue = "*"
 conrod = { git = "https://github.com/jbg/conrod", features = ["winit", "glium"] }
-glium = { git = "https://github.com/jbg/glium" }
+# glium = { git = "https://github.com/jbg/glium" }
 image = "*"
 rusttype = "*"
 rand = "*"
 
 [replace]
-"glium:0.17.0" = { git = "https://github.com/jbg/glium" }
+"glium" = { git = "https://github.com/jbg/glium" }

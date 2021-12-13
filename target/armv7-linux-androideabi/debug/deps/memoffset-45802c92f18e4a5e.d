@@ -1,0 +1,10 @@
+/Users/jonaseveraert/Documents/IntelliJ/projects/AndroidConrod/conrod-android-skeleton/target/armv7-linux-androideabi/debug/deps/memoffset-45802c92f18e4a5e.rmeta: /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/jonaseveraert/Documents/IntelliJ/projects/AndroidConrod/conrod-android-skeleton/target/armv7-linux-androideabi/debug/deps/libmemoffset-45802c92f18e4a5e.rlib: /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/jonaseveraert/Documents/IntelliJ/projects/AndroidConrod/conrod-android-skeleton/target/armv7-linux-androideabi/debug/deps/memoffset-45802c92f18e4a5e.d: /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs:
+/Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs:
+/Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs:
+/Users/jonaseveraert/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs:
